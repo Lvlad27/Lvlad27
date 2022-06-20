@@ -11,7 +11,6 @@ In the recent years, after working full time as a structural engineer, I've deve
 * ✉️  You can contact me at [lvlad27@gmail.com](mailto:lvlad27@gmail.com)
 * 🚀  I'm currently working on [a Weather App](http://github.com/Lvlad27/WeatherApp)
 * 🧠  I'm currently learning the MERN stack. (MongoDB, Express.js, React.js, Node.js)
-* ⚡  "The more efficient you are at doing the wrong thing, the wronger you become. It is much better to do the right thing wronger than the wrong thing righter. If you do the right thing wrong and correct it, you get better."
 
 ### Skills
 
