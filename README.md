@@ -7,7 +7,7 @@ Web Developer
 In the recent years, after working full time as a structural engineer, I've developed a strong passion for programming and I'm pursuing any opportunity that can help me improve in this area. I enjoy being around like-minded people, facing challenges and solving problems.
 
 * 🌍  I'm based in Bucharest, Romania
-* 🖥️  See my portfolio at [this link](http://lvlad27.github.io/Portfolio/)
+* 🖥️  See my old portfolio at [this link](http://lvlad27.github.io/Portfolio/). A new one is in progress. 
 * ✉️  You can contact me at [lvlad27@gmail.com](mailto:lvlad27@gmail.com)
 * 🧠  I'm currently working with the MERN stack. (MongoDB, Express.js, React.js, Node.js)
 
