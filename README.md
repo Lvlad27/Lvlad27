@@ -9,7 +9,7 @@ In the recent years, after working full time as a structural engineer, I've deve
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [this link](http://lvlad27.github.io/Portfolio/)
 * ✉️  You can contact me at [lvlad27@gmail.com](mailto:lvlad27@gmail.com)
-* 🧠  I'm currently learning and working with the MERN stack. (MongoDB, Express.js, React.js, Node.js)
+* 🧠  I'm currently working with the MERN stack. (MongoDB, Express.js, React.js, Node.js)
 
 ### Skills
 
