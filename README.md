@@ -34,8 +34,6 @@ In the recent years, after working full time as a structural engineer, I've deve
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Lvlad27"><img src="https://github-readme-stats.vercel.app/api?username=Lvlad27&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lvlad27's GitHub stats" /></a>
-
 <a href="http://www.github.com/Lvlad27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvlad27&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Lvlad27"><img src="https://activity-graph.herokuapp.com/graph?username=Lvlad27&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
