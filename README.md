@@ -1,7 +1,7 @@
-Hi 👋 My name is Vlad Leontescu
+Hi 👋 I'm Vlad Leontescu
 ===============================
 
-Web Developer
+Software Developer
 -------------
 
 In the recent years, after working full time as a structural engineer, I've developed a strong passion for programming and I'm pursuing any opportunity that can help me improve in this area. I enjoy being around like-minded people, facing challenges and solving problems.
