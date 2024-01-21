@@ -4,7 +4,7 @@ Hi 👋 I'm Vlad Leontescu
 Software Developer
 -------------
 
-My goal is to understand technologies from different fields and work on projects that have a positive and tangible impact on people. I aim to solve tech challenges with a well-rounded approach and make valuable contributions.
+My goal is to understand technologies from different fields and work on projects that have a positive and tangible impact on people.
 
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my old portfolio at [this link](http://lvlad27.github.io/Portfolio/). A new one is in progress. 
