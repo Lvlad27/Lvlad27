@@ -7,9 +7,6 @@ Software Developer
 My goal is to understand technologies from different fields and work on projects that have a positive and tangible impact on people.
 
 * 🌍  I'm based in Bucharest, Romania
-* 🖥️  See my old portfolio at [this link](http://lvlad27.github.io/Portfolio/). A new one is in progress. 
-* ✉️  You can contact me at [lvlad27@gmail.com](mailto:lvlad27@gmail.com)
-* 🧠  I'm currently working with the MERN stack. (MongoDB, Express.js, React.js, Node.js)
 
 ### Skills
 
